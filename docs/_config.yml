@@ -5,7 +5,7 @@ domain: pujangga123.github.io
 url: http://pujangga123.github.io
 github_username:  pujangga123
 
-remote_theme: pages-themes/architect
+remote_theme: pages-themes/leap-day
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
