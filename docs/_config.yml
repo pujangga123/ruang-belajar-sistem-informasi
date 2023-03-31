@@ -1,11 +1,11 @@
-title: testing midnight theme...
+title: Ruang Belajar - Sistem Informasi
 email: email@example.com
-description: ...description...
+description: Repositori pembelajaran mata kuliah Sistem Informasi
 domain: pujangga123.github.io
 url: http://pujangga123.github.io
 github_username:  pujangga123
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/architect
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
