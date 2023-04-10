@@ -3,28 +3,17 @@ Sistem Informasi merupakan bagian tak terpisahkan dari semua kegiatan bisnis dan
 
 Mata kuliah ini juga memberikan pengenalan sistem dan konsep pengembangannya, akuisisi teknologi, dan berbagai jenis aplikasi perangkat lunak yang telah lazim atau muncul dalam organisasi modern dan masyarakat. Matakuliah ini memberikan pemahaman tentang keilmuan sistem informasi dan kompetensi sistem informasi dalam perkembangan keilmuan di bidang teknologi informasi
 
-# Capaian Pembelajaran
+# Target Pembelajaran
 Adapun outcomes yang diharapkan setelah mahasiswa mengikuti pembelajaran ini adalah sebagai berikut:  
 * Mahasiswa dapat memahami keilmuan dan kompetensi sistem informasi
 * Mahasiswa dapat memahami ruang lingkup sistem informasi
 * Mahasiswa dapat memahami secara mendasar korelasi dengan disiplin ilmu lainnya untuk menunjang kompetensi keilmuan sistem informasi
 
 # Rencana Studi
-Secara keseluruhan yang akan dipelajari pada mata kuliah ini adalah 
 
-<!--
-1. Characteristics of the Digital World
-2. Information systems components
-3. Information systems in organizations
-4. Valuing information systems
-5. Information systems infrastructure
-6. The Internet and WWW
-7. Security of information systems
-8. Business intelligence
-9. Enterprise-wide information systems
-10. Development and acquisition
-11. Information systems ethics and crime
--->
+# Story
+- [Hidden Figures (2016)](story/hidden-figures-2016.md)
+
 
 # Referensi
 ## E-book
